@@ -155,7 +155,8 @@ CMakeFiles/untitled.dir/main.cpp.obj: D:/coding/CODEs/CLION/data_structure/main.
   D:/coding/CODEs/CLION/data_structure/data_structure/queue/queue.h \
   D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h \
   D:/coding/CODEs/CLION/data_structure/data_structure/stack/stack.h \
-  D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h
+  D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h \
+  D:/coding/CODEs/CLION/data_structure/data_structure/function_pointer/functions.h
 
 
 D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list.h:
@@ -459,3 +460,5 @@ D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h:
 D:/coding/CODEs/CLION/data_structure/data_structure/testing/test.h:
 
 D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list_node.h:
+
+D:/coding/CODEs/CLION/data_structure/data_structure/function_pointer/functions.h:

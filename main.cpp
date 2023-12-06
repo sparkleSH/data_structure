@@ -7,4 +7,6 @@ int main() {
     ds::test::testLinkedList();
     ds::test::testQueue();
     ds::test::testStack();
+    ds::test::testFunctionPointer();
 }
+

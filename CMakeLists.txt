@@ -11,4 +11,5 @@ add_executable(untitled main.cpp
         data_structure/list/linked_list_node.h
         data_structure/testing/test.h
         data_structure/queue/queue.h
-        data_structure/stack/stack.h)
+        data_structure/stack/stack.h
+        data_structure/function_pointer/functions.h)

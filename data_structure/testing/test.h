@@ -10,6 +10,7 @@
 #include "../list/linked_list.h"
 #include "../queue/queue.h"
 #include "../stack/stack.h"
+#include "../function_pointer/functions.h"
 
 namespace ds{
     class test{
@@ -45,6 +46,13 @@ namespace ds{
             s->push(3);
             s->pop();
             s->print();
+        }
+        static void testFunctionPointer(){
+            int (*func)();
+            func=func1;
+            std::cout<<func()<<" |";
+            func=func2;
+            std::cout<<func()<<" |";
         }
     };
 }
