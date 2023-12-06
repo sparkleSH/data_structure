@@ -5,4 +5,6 @@ using namespace ds;
 int main() {
     ds::test::testArray();
     ds::test::testLinkedList();
+    ds::test::testQueue();
+    ds::test::testStack();
 }

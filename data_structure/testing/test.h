@@ -8,6 +8,8 @@
 #include "../list/array_list.h"
 #include "../list/linked_list_node.h"
 #include "../list/linked_list.h"
+#include "../queue/queue.h"
+#include "../stack/stack.h"
 
 namespace ds{
     class test{
@@ -21,11 +23,28 @@ namespace ds{
             arr->print([](int val){
                 std::cout<<val<<" ";
             });
+            delete arr;
         }
         static void testLinkedList(){
             auto* list=new linked_list<int>(4);
             list->addNode(3);
             list->print();
+            delete list;
+        }
+        static void testQueue(){
+            auto* q=new queue<int>(1);
+            q->push(2);
+            q->print();
+            q->pop();
+            q->print();
+            delete q;
+        }
+        static void testStack(){
+            auto* s=new stack<int>(1);
+            s->push(2);
+            s->push(3);
+            s->pop();
+            s->print();
         }
     };
 }

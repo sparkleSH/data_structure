@@ -151,7 +151,11 @@ CMakeFiles/untitled.dir/main.cpp.obj: D:/coding/CODEs/CLION/data_structure/main.
   D:/coding/CODEs/CLION/data_structure/data_structure/list/array_list.h \
   D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list_node.h \
   D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list.h \
-  D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list_node.h
+  D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list_node.h \
+  D:/coding/CODEs/CLION/data_structure/data_structure/queue/queue.h \
+  D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h \
+  D:/coding/CODEs/CLION/data_structure/data_structure/stack/stack.h \
+  D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h
 
 
 D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list.h:
@@ -344,6 +348,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
 
+D:/coding/CODEs/CLION/data_structure/data_structure/stack/stack.h:
+
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h:
@@ -369,6 +375,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h:
+
+D:/coding/CODEs/CLION/data_structure/data_structure/queue/queue.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
 
