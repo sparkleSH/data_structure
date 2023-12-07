@@ -156,7 +156,25 @@ CMakeFiles/untitled.dir/main.cpp.obj: D:/coding/CODEs/CLION/data_structure/main.
   D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h \
   D:/coding/CODEs/CLION/data_structure/data_structure/stack/stack.h \
   D:/coding/CODEs/CLION/data_structure/data_structure/list/list.h \
-  D:/coding/CODEs/CLION/data_structure/data_structure/function_pointer/functions.h
+  D:/coding/CODEs/CLION/data_structure/data_structure/function_pointer/functions.h \
+  D:/coding/CODEs/CLION/data_structure/data_structure/tree/tree.h \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/math.h \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  D:/coding/CODEs/CLION/data_structure/data_structure/tree/tree_node.h
 
 
 D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list.h:
@@ -209,6 +227,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/_mingw.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/wchar.h:
 
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h:
+
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/vadefs.h:
@@ -251,6 +271,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
 
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h:
+
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
@@ -287,6 +309,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/sys/types.h:
 
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
+
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
@@ -308,6 +332,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h:
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
 
@@ -343,6 +369,8 @@ D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h:
 
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath:
+
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h:
@@ -354,6 +382,8 @@ D:/coding/CODEs/CLION/data_structure/data_structure/stack/stack.h:
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h:
+
+D:/coding/CODEs/CLION/data_structure/data_structure/tree/tree.h:
 
 D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
 
@@ -462,3 +492,27 @@ D:/coding/CODEs/CLION/data_structure/data_structure/testing/test.h:
 D:/coding/CODEs/CLION/data_structure/data_structure/list/linked_list_node.h:
 
 D:/coding/CODEs/CLION/data_structure/data_structure/function_pointer/functions.h:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/x86_64-w64-mingw32/include/math.h:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc:
+
+D:/coding/IDEs/CLion\ 2023.2/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc:
+
+D:/coding/CODEs/CLION/data_structure/data_structure/tree/tree_node.h:

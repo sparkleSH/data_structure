@@ -11,6 +11,7 @@
 #include "../queue/queue.h"
 #include "../stack/stack.h"
 #include "../function_pointer/functions.h"
+#include "../tree/tree.h"
 
 namespace ds{
     class test{
@@ -53,6 +54,15 @@ namespace ds{
             std::cout<<func()<<" |";
             func=func2;
             std::cout<<func()<<" |";
+        }
+        static void testTree(){
+            auto* tr=new tree<int>(1);
+            tr->getRoot()->setLeft(new tree_node<int>(5));
+            tr->getRoot()->setRight(new tree_node<int>(8));
+            std::cout<<tr->getDepth()<<std::endl;
+            tr->preOrderTraverse();
+            tr->midOrderTraverse();
+            tr->postOrderTraverse();
         }
     };
 }
